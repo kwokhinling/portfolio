@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../template"
+		},
+		{
+			"path": "../kwok hin_ling inspiation"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kwok hin_ling inspiation"
+	}
+}
